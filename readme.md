@@ -1,4 +1,4 @@
-person 2 add 1st line
+person 2 add 1st line | person 2 adding this comment
 person 2 add 2nd line 
 person 2 add 3rd line
 person 2 add 4th line 
